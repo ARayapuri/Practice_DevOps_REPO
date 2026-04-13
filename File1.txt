@@ -9,3 +9,7 @@ This is line6
 [F[F
 [FO:q
 [F[F[B[C[C!
+This is line7
+:q!
+
+[F
